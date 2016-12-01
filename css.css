@@ -8,11 +8,9 @@
   border: 2px solid black;
 }
 
-#1 {
-  padding: 1em;
-  color: white;
-  background-color: lightpink;
+#firstelement {
+
+  background-color: pink;
   clear: left;
-  text-align: center;
   border: 2px solid black;
 }
