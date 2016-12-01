@@ -4,6 +4,8 @@ function logArgs(args) {
   
  
   
+
+  
   
 }
 var functionString = logArgs.toString()
