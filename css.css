@@ -9,6 +9,21 @@
 }
 
 #one {
-  padding: 1em;
+  border: 2px solid black;
+}
+
+#two {
+  border: 2px solid black;
+}
+#three {
+  padding: .2em;
+  border: 2px solid black;
+}
+#four {
+  padding: .2em;
+  border: 2px solid black;
+}
+#five {
+  padding: .2em;
   border: 2px solid black;
 }
