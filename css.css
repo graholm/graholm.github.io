@@ -1,2 +1,9 @@
-.elements-container
-  border: 5px solid black;
+#title {
+  
+  padding: 1em;
+  color: white;
+  background-color: lightpink;
+  clear: left;
+  text-align: center;
+  border: 2px solid black;
+}
