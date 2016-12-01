@@ -9,7 +9,9 @@
 }
 
 #one {
-  border: 1px solid black;}
+  border: 1px solid black;
+  padding: 2.5em;
+}
 #two {
   border: 1px solid black;}
 #three {
