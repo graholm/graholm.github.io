@@ -15,7 +15,9 @@
 #three {
   border: 1px solid black;}
 #four {
-  border: 1px solid black;}
+  border: 1px solid black;
+  padding: 2.5em;
+}
 #five {
   border: 1px solid black;}
 #six {
