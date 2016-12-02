@@ -26,8 +26,8 @@ functionExample.html(formattedExample)
 $("#function-input").keydown(function(e) {(	
   if (e.keyCode == "13") {
   $("#function-input").css(document.write("thanks!")
-   })
-  
-  
+   )}
+
+
   
   
