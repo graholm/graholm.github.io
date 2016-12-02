@@ -21,9 +21,13 @@ var formattedExample = $("<pre>")
 formattedExample.text(functionString)
 functionExample.html(formattedExample)
 
-function that takes a functio
+
+//function that takes a function
 $("#function-input").keydown(function(e) {(	
   if (e.keyCode == "13") {
   $("#function-input").css(document.write("thanks!")
-                           }
-                           })
+   })
+  
+  
+  
+  
