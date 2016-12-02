@@ -10,4 +10,21 @@ formattedExample.text(functionString)
 consoleLogExample.html(formattedExample)
 
 //function
+function myfunction(a, b) {
+  return a * b;
+}
+myfunction(4, 3);
+var call = "12"
+var functionString = myfunction.toString() + call
+var functionExample = $("#function-example")
+var formattedExample = $("<pre>")
+formattedExample.text(functionString)
+functionExample.html(formattedExample)
 
+
+
+
+
+function perimeter(length, width) {
+  console.log(length + length + width + width);
+};
