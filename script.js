@@ -21,10 +21,9 @@ var formattedExample = $("<pre>")
 formattedExample.text(functionString)
 functionExample.html(formattedExample)
 
-
-
-
-
-function perimeter(length, width) {
-  console.log(length + length + width + width);
-};
+function that takes a functio
+$("#function-input").keydown(function(e) {(	
+  if (e.keyCode == "13") {
+  $("#function-input").css(document.write("thanks!")
+                           }
+                           })
