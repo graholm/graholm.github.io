@@ -28,6 +28,10 @@ $("#function-input").keydown(function(e) {(
   $("#function-input").css(document.write("thanks!")
    )}
 
-
+                                          var functionString = logArgs.toString()
+                                          var consoleLogExample = $("#console-log-example")
+                                          var formattedExample = $("<pre>")
+                                          formattedExample.text(functionString)
+                                          consoleLogExample.html(formattedExample)
   
   
