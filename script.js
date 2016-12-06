@@ -22,16 +22,3 @@ formattedExample.text(functionString)
 functionExample.html(formattedExample)
 
 
-//function that takes a function
-$("#function-input").keydown(function(e) {	
-  if (e.keyCode == "13") {
-  $("#function-input").css(document.write("thanks!")
-   )}
-})
-                                          
-var functionString = logArgs.toString()   
-var consoleLogExample = $("#console-log-exampl")
-var formattedExample = $("<pre>")     formattedExample.text(functionString)
-consoleLogExample.html(formattedExample)
-  
-  
